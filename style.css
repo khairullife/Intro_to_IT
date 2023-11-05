@@ -1,0 +1,37 @@
+/* Change the color of h1 and h2 elements */
+h1 {
+  text-align: center;
+  color: #DC143C; /* Red color */
+}
+h2 {
+  font-family: Georgia, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  color: #000080; /* Blue color */
+}
+
+/* Change the font properties of p and li elements */
+p {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+li {
+  font-family: Verdana, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+}
+
+/* Change the background color of the body */
+body {
+  background-color: #808080; /* Light gray color */
+}
+
+/* Change the text alignment of h3 elements */
+h3 {
+   font-family: Arial Black, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
